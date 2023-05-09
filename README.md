@@ -5,6 +5,7 @@ This paper explores the use of Hopfield networks for classifying handwritten let
 
 
 <p align="center">
+<br />
 <img src="https://production-media.paperswithcode.com/datasets/EMNIST-0000003336-a53c2270.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 

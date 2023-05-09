@@ -13,6 +13,10 @@ This paper explores the use of Hopfield networks for classifying handwritten let
 
 - <b>Python</b>
 
+<h2>Dataset</h2>
 
+- <b>[the EMNIST dataset](https://www.nist.gov/itl/products-and-services/emnist-dataset)</b>
 
+<h2>Useful Refferences</h2>
 
+- <b>["Hopfield Networks is All You Need" blog post](https://ml-jku.github.io/hopfield-layers/)</b>
